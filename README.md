@@ -32,6 +32,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meghlab&show_icons=true&locale=en&layout=compact" alt="meghlab" /></p>
 
 
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=meghlab&theme=react-dark)
+
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meghlab&" alt="meghlab" /></p>
 
 
