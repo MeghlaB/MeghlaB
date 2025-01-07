@@ -34,24 +34,25 @@
 ---
 
 ## 🌟 GitHub Stats  
-![Meghla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+![Meghla's GitHub Stats](https://github-readme-stats.vercel.app/api?MeghlaB=MeghlaB&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?MeghlaB=Meghla&layout=compact&theme=radical)  
 
 ---
 
 ## 🏆 GitHub Trophies  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?MeghlaB=Meghla&theme=radical)  
 
 ---
 
 ## 🔥 Streak Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?MeghlaB=Meghla&theme=radical)  
 
 ---
 
 ## 📈 GitHub Activity Graph  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=radical)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?MeghlaB=Meghla&theme=radical)  
 
 ---
 
-Thanks for visiting my GitHub profile! 🚀  
+Thanks for visiting my GitHub profile! 🚀
+
