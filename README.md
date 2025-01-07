@@ -25,7 +25,7 @@
 <h3 align="left">Github Stats:</h3>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meghlab&show_icons=true&locale=en" alt="meghlab" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meghlab&show_icons=true&theme=default#gh-light-mode-only)" /></p>
 
 
 <h3 align="left">Most Used Languages</h3>
