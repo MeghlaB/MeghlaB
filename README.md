@@ -71,13 +71,15 @@
 
 ---
 
-<h1 align="center">📊 GitHub Activity Graph</h1>
-<p align="center">
+<h1 align="center" style="color: #FFAA33; font-family: Arial, sans-serif;">📊 GitHub Activity Graph</h1>
+<div align="center" style="background-color: #1A1B27; border-radius: 10px; padding: 20px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=MeghlaB&theme=tokyo-night" 
     alt="GitHub Activity Graph" 
+    style="border-radius: 10px; max-width: 100%; height: auto;"
   />
-</p>
+</div>
+
 
 ---
 
