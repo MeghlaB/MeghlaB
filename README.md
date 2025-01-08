@@ -48,10 +48,10 @@
 ---
 
 <h1 align="center">🏆 GitHub Trophies</h1>
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=meghlab&theme=onedark&no-frame=true&margin-w=15&margin-h=15&row=1&column=3" alt="GitHub Trophies Line 1" />
 </p>
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=meghlab&theme=onedark&no-frame=true&margin-w=15&margin-h=15&row=2&column=3" alt="GitHub Trophies Line 2" />
 </p>
 
