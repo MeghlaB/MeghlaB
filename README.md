@@ -74,7 +74,7 @@
 <h1 align="center">📊 GitHub Activity Graph</h1>
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MeghlaB&theme=tokyo-night&bg_color=1A1B27&color=00FFFB&line=FF7700&point=FFFF00&area=true&custom_title=🌟 GitHub Contribution Graph 🌟" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MeghlaB&theme=tokyo-night" 
     alt="GitHub Activity Graph" 
   />
 </p>
