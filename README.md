@@ -47,7 +47,7 @@
 
 ---
 
-<h1 align="center">🏆 GitHub Trophies</h1>
+<h1 align="left">🏆 GitHub Trophies</h1>
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=meghlab&theme=onedark&no-frame=true&margin-w=15&margin-h=15&row=1&column=3" alt="GitHub Trophies Line 1" />
 </p>
@@ -71,7 +71,7 @@
 
 ---
 
-<h1 align="center" style="color: #FFAA33; font-family: Arial, sans-serif;">📊 GitHub Activity Graph</h1>
+<h1 align="left" style="color: #FFAA33; font-family: Arial, sans-serif;">📊 GitHub Activity Graph</h1>
 <div align="center" style="background-color: #1A1B27; border-radius: 10px; padding: 20px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=MeghlaB&theme=tokyo-night" 
