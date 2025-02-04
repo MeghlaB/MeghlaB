@@ -65,9 +65,9 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meghlab&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=meghlab&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
+<div>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=meghlab" alt="GitHub Streak" />
+</div>
 
 ---
 
