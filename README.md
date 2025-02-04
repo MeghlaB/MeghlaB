@@ -66,8 +66,9 @@
 </p>
 
 <div>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=meghlab" alt="GitHub Streak" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=meghlab&theme=dark" alt="GitHub Streak" />
 </div>
+
 
 ---
 
