@@ -39,8 +39,10 @@
 
 #### **Tools & Others**  
 <p align="center">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
   <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase" />
 </p>
 
 ### 📫 **Connect With Me**  
@@ -51,7 +53,7 @@
   <a href="https://github.com/meghla-biswas">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
   </a>
-  <a href="https://your-portfolio-link.com">
+  <a href="https://profound-rolypoly-501568.netlify.app/">
     <img src="https://img.shields.io/badge/-Portfolio-blueviolet?style=flat-square&logo=web" />
   </a>
 </p>
