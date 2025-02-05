@@ -1,7 +1,7 @@
 ![Profile Banner](https://github.com/MeghlaB/MeghlaB/blob/main/githubBanner.jpg) 
 
 
-<h1 align="center">Hey 👋, I'm Meghla Biswas</h1>
+<h1 align="center">Hey 👋, I'm Meghla Biswas | Front End Developer</h1>
 <h3 align="center">🌟 Welcome to my profile! A passionate Frontend Developer from Bangladesh, dedicated to crafting modern and user-friendly web applications. 🚀</h3>
 
 ---
@@ -14,6 +14,12 @@
 - 📫 How to reach me: **meghlabiswas643@gmail.com**
 
 ---
+### 🚀 **What I'm Currently Working On**  
+- 🌱 Exploring **Next.js & Backend Integrations**.  
+- 🛠 Building a **Lost & Found Web Application** for efficient item recovery.  
+- 🎨 Enhancing UI/UX with **Figma to React Implementations**.
+  
+ ---
 
 <h3 align="left">🔗 Connect with Me:</h3>
 <p align="left">
