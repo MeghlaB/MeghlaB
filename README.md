@@ -82,17 +82,14 @@
 ---
 
 <h3 align="left">📊 GitHub Stats:</h3>
-<div align='center'>
-  <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meghlab&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=meghlab&show_icons=true&theme=radical" alt="Top Languages" />
-</p>
-<div>
-    <img  align="center" src="https://nirzak-streak-stats.vercel.app/?user=meghlab&theme=dark" alt="GitHub Streak" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meghlab&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="display: inline-block; width: 45%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=meghlab&show_icons=true&theme=radical" alt="GitHub Stats" style="display: inline-block; width: 45%;" />
 </div>
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=meghlab&theme=dark" alt="GitHub Streak" style="display: inline-block; width: 90%;" />
 </div>
+
 
 
 ---
