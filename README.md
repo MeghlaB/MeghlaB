@@ -20,25 +20,43 @@
 - 🎨 Enhancing UI/UX with **Figma to React Implementations**.
   
  ---
+<div align="">
 
 ### 💡 **Skills & Tech Stack**  
+
 #### **Frontend**  
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)  
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)  
+<p align="center">
+  <img src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript" />
+</p>
 
 #### **Backend & Database**  
-![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)  
+<p align="center">
+  <img src="https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js" />
+  <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb" />
+</p>
 
 #### **Tools & Others**  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)  
+<p align="center">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code" />
+</p>
 
 ### 📫 **Connect With Me**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/meghla-biswas)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-blueviolet?style=flat-square&logo=web)](https://your-portfolio-link.com)  
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://github.com/meghla-biswas">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
+  </a>
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/-Portfolio-blueviolet?style=flat-square&logo=web" />
+  </a>
+</p>
+
+</div>
 
 ---
 
