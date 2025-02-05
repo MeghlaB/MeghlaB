@@ -53,13 +53,14 @@
 
 ### 📫 **Connect With Me**  
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/meghla-biswas-53a69534a/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin" />
   </a>
-  <a href="https://github.com/meghla-biswas">
+  <a href="https://github.com/MeghlaB">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
   </a>
-  <a href="https://profound-rolypoly-501568.netlify.app/">
+  <a href="
+    https://profound-rolypoly-501568.netlify.app/">
     <img src="https://img.shields.io/badge/-Portfolio-blueviolet?style=flat-square&logo=web" />
   </a>
 </p>
