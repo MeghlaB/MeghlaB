@@ -87,7 +87,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=meghlab&show_icons=true&theme=radical" alt="GitHub Stats" style="display: inline-block; width: 45%;" />
 </div>
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=meghlab&theme=dark" alt="GitHub Streak" style="display: inline-block; width: 90%;" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=meghlab&theme=radical" alt="GitHub Streak" style="display: inline-block; width: 90%;" />
 </div>
 
 
