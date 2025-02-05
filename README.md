@@ -63,18 +63,21 @@
 ---
 
 <h1 align="left">🏆 GitHub Trophies</h1>
-<p align="left">
+<div align='center>
+  <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=meghlab&theme=onedark&no-frame=true&margin-w=15&margin-h=15&row=1&column=3" alt="GitHub Trophies Line 1" />
 </p>
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=meghlab&theme=onedark&no-frame=true&margin-w=15&margin-h=15&row=2&column=3" alt="GitHub Trophies Line 2" />
 </p>
 
+</div>
 
 ---
 
 <h3 align="left">📊 GitHub Stats:</h3>
-
+<div align='center>
+  
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meghlab&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
@@ -82,6 +85,7 @@
 
 <div>
     <img  align="center" src="https://nirzak-streak-stats.vercel.app/?user=meghlab&theme=dark" alt="GitHub Streak" />
+</div>
 </div>
 
 
