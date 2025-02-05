@@ -29,13 +29,19 @@
   <img src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react" />
   <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5" />
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3" />
 </p>
 
 #### **Backend & Database**  
 <p align="center">
   <img src="https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js" />
   <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb" />
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js" />
 </p>
+
+
 
 #### **Tools & Others**  
 <p align="center">
