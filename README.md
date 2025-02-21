@@ -9,7 +9,7 @@
 <h1 align="left">📋 About Me</h1>
 
 - 🌱 I’m currently learning **React.js and Tailwind CSS**  
-- 👨‍💻 All of my projects are available at [My Portfolio](https://profound-rolypoly-501568.netlify.app/)  
+- 👨‍💻 All of my projects are available at [My Portfolio](https://meghla-biswas-protfolio.netlify.app/)  
 - 💬 Ask me about **JavaScript, CSS, React, Tailwind CSS, and anything related to web development.**  
 - 📫 How to reach me: **meghlabiswas643@gmail.com**
 
