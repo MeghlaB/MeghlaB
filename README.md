@@ -1,4 +1,4 @@
-![Profile Banner](https://raw.githubusercontent.com/MeghlaB/MeghlaB/main/Meghla_Biswas%20Banner.png)
+![Profile Banner](https://raw.githubusercontent.com/MeghlaB/MeghlaB/main/![Profile Banner](https://github.com/MeghlaB/MeghlaB/blob/main/githubbanner.png) )
 
 
 <h1 align="center">Hey 👋, I'm Meghla Biswas | Front End Developer</h1>
