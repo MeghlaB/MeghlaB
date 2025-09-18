@@ -1,7 +1,7 @@
 ![Profile Banner](https://github.com/MeghlaB/MeghlaB/blob/main/Meghla_Biswas%20Banner.png) 
 
 
-<h1 align="center">Hey 👋, I'm Meghla Biswas | Front End Developer</h1>
+<h1 align="center">Hey 👋, I'm Meghla Biswas | Front End Developer | MERN Stack Developer</h1>
 <h3 align="center">🌟 Welcome to my profile! A passionate Frontend Developer from Bangladesh, dedicated to crafting modern and user-friendly web applications. 🚀</h3>
 
 ---
